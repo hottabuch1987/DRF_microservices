@@ -1,4 +1,4 @@
-### Test project
+### Project
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Микросервисы+на+Django+REST+framework+ )](https://git.io/typing-svg)
 
 ### Start
